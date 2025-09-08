@@ -1,3 +1,4 @@
+
 import {Link} from "react-router";
 import ScoreCircle from "~/components/ScoreCircle";
 import {useEffect, useState} from "react";
